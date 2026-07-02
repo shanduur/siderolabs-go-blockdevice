@@ -5,14 +5,14 @@ go 1.25.0
 require (
 	github.com/freddierice/go-losetup/v2 v2.0.1
 	github.com/google/uuid v1.6.0
-	github.com/klauspost/compress v1.18.3
-	github.com/siderolabs/gen v0.8.5
+	github.com/klauspost/compress v1.19.0
+	github.com/siderolabs/gen v0.8.7
 	github.com/siderolabs/go-cmd v0.2.0
 	github.com/siderolabs/go-pointer v1.0.1
 	github.com/stretchr/testify v1.11.1
-	go.uber.org/zap v1.27.1
+	go.uber.org/zap v1.28.0
 	golang.org/x/sys v0.46.0
-	golang.org/x/text v0.33.0
+	golang.org/x/text v0.38.0
 )
 
 require (
